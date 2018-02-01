@@ -23,9 +23,11 @@
 		"author": "",
 		"license": "ISC",
 		"devDependencies": {
+				"autoprefixer": "^7.2.5",
 				"autoprefixer-cli": "^1.0.0",
 				"browser-sync": "^2.23.6",
 				"globstar": "^1.0.0",
+				"jshint": "^2.9.5",
 				"mkdirp": "^0.5.1",
 				"node-sass": "^4.7.2",
 				"npm-run-all": "^4.1.2",
