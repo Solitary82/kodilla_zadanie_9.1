@@ -1,4 +1,7 @@
 function getTriangleArea(a, h) {
+    
+    "use strict";
+    
     if (a && h >= 0) {
         return(a*h/2);
     } else {
